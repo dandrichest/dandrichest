@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dandrichest
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Frontend Web development HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me dandrichest@gmail.com
 

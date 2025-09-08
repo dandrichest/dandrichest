@@ -2,6 +2,7 @@
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning Frontend Web development HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on website development
+- 📫 Data Annotation & LLM Specialist 
 - 📫 How to reach me dandrichest@gmail.com
 - 📫 You reach me on https://www.linkedin.com/in/daniel-oyeniyi-8ab16436/
   
